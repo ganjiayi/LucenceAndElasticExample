@@ -1,0 +1,1 @@
+.\bin\Release\IndexFile.exe -l -f D:\External\SecLists -i D:\Index
