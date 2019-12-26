@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="DynamicClass.cs" />
     <Compile Include="Field.cs" />
+    <Compile Include="AnalyzerParser.cs" />
     <Compile Include="ISearcher.cs" />
     <Compile Include="LuceneSearcher.cs" />
     <Compile Include="Program.cs" />
